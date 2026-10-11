@@ -1,0 +1,26 @@
+[
+  {
+    "type": "starred",
+    "repository": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "type": "starred",
+    "repository": "system-design-primer",
+    "owner": "donnemartin",
+    "description": "A collection of resources for learning how to design large-scale systems.",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "starredAt": "2026-08-27"
+  },
+  {
+    "type": "starred",
+    "repository": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "url": "https://github.com/public-apis/public-apis",
+    "starredAt": "2026-07-11"
+  }
+]
